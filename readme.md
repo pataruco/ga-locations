@@ -15,3 +15,5 @@ const data = JSON.parse(container.dataset.props);
 const markers = data.markers;
 console.log(markers);
 ```
+
+- Replace the values of [`const marker`](https://github.com/pataruco/ga-locations/blob/master/scripts/main.js#L187) with the markers from the console and :tada:
