@@ -17,3 +17,7 @@ console.log(markers);
 ```
 
 - Replace the values of [`const marker`](https://github.com/pataruco/ga-locations/blob/master/scripts/main.js#L187) with the markers from the console and :tada:
+
+## Live version
+
+[https://pataruco.github.io/ga-locations/](https://pataruco.github.io/ga-locations/)
